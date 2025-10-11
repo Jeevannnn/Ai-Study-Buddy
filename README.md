@@ -41,7 +41,7 @@ Installation
 
 Clone the repository:
 
-git clone [https://github.com/your-username/ai-study-buddy.git](https://github.com/your-username/ai-study-buddy.git)
+git clone [https://github.com/Jeevannnn/Ai-Study-Buddy.git](https://github.com/Jeevannnn/Ai-Study-Buddy.git)
 
 cd ai-study-buddy
 
